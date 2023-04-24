@@ -34,3 +34,9 @@ Por lo tanto, 0,256 mbps significa que se pueden transferir 256.000 bits de dato
  esta velocidad puede ser insuficiente y se requerirá una velocidad de conexión más rápida.
 
 -* : El asterisco '' es comúnmente utilizado en las estadísticas para indicar que los datos son estimados o no están disponibles para ese período.
+
+-El IPC US se refiere al Índice de Precios al Consumidor de Estados Unidos (en inglés, Consumer Price Index), que es una medida estadística que mide los cambios en los precios de los bienes y servicios que adquiere un hogar promedio en los Estados Unidos. El IPC es utilizado para medir la inflación y es publicado mensualmente por la Oficina de Estadísticas Laborales de los Estados Unidos. Este índice incluye una amplia variedad de bienes y servicios, como alimentos, vivienda, transporte, atención médica y educación, entre otros.
+
+
+
+
