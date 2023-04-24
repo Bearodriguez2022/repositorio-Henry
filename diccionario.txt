@@ -37,6 +37,5 @@ Por lo tanto, 0,256 mbps significa que se pueden transferir 256.000 bits de dato
 
 -El IPC US se refiere al Índice de Precios al Consumidor de Estados Unidos (en inglés, Consumer Price Index), que es una medida estadística que mide los cambios en los precios de los bienes y servicios que adquiere un hogar promedio en los Estados Unidos. El IPC es utilizado para medir la inflación y es publicado mensualmente por la Oficina de Estadísticas Laborales de los Estados Unidos. Este índice incluye una amplia variedad de bienes y servicios, como alimentos, vivienda, transporte, atención médica y educación, entre otros.
 
-
-
-
+-USDARS blue es un término que se refiere al tipo de cambio entre el dólar estadounidense (USD) y el peso argentino (ARS) en el mercado informal o paralelo de Argentina. En Argentina, existe un mercado cambiario oficial donde el Banco Central de la República Argentina establece un tipo de cambio fijo, pero también existe un mercado paralelo o "blue" donde se negocia el dólar a un tipo de cambio más alto y fluctuante, que refleja la oferta y demanda del mercado informal. El término "blue" se utiliza comúnmente en Argentina para 
+referirse a actividades económicas que ocurren en el mercado informal y no regulado. Es importante tener en cuenta que el uso del mercado informal para la compra y venta de divisas puede ser ilegal o no estar regulado en algunos países.
