@@ -1,5 +1,6 @@
 Servicio de Telecomunicaciones
 
+
 Mi cliente OsBe srl, cuya principal actividad de la empresa es brindar acceso a internet. me solicitó la realización de un análisis completo que permita reconocer el comportamiento de servicio de telecomunicación a nivel nacional, teniendo en cuenta tanto el acceso a internet como comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
  La velocidad máxima de internet en Argentina varía dependiendo de la tecnología utilizada y de la disponibilidad en cada zona geográfica.
