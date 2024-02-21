@@ -1,7 +1,7 @@
 ## Servicios de Telecomunicaciones
 
-<img  src='./logo.png' height='70px'>
-https://github.com/Bearodriguez2022/Telecomunicaciones_powerBI/blob/main/Captura%20de%20pantalla%20(12).png
+![logo](https://github.com/Bearodriguez2022/Telecomunicaciones_powerBI/blob/main/Captura%20de%20pantalla%20(12).png) 
+
 
 
   OsBe srl, cuya principal actividad de la empresa es brindar acceso a internet la misma solicitó la realización de un análisis completo del sector de comunicaciones que permita monitorear el comportamiento de los mismos a nivel nacional, teniendo en cuenta el acceso a internet cda 100 hogares por provincia, con el fin de brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
