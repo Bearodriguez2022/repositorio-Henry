@@ -1,41 +1,38 @@
-ADSL permite la transmisión de datos a través de una línea telefónica de cobre de alta velocidad,
+ADSL: permite la transmisión de datos a través de una línea telefónica de cobre de alta velocidad,
  lo que significa que los usuarios pueden acceder a Internet y otros servicios de banda ancha
   a través de su línea telefónica. 
-Dial-up es una tecnología de conexión a Internet que se utilizaba en la década de 1990 y principios 
+
+Dial-up. es una tecnología de conexión a Internet que se utilizaba en la década de 1990 y principios 
 de la década de 2000, antes de la amplia disponibilidad de conexiones de banda ancha.
  El acceso a Internet a través de Dial-up se realiza mediante una línea telefónica y un módem.
 
--Un cable módem es un dispositivo que se utiliza para proporcionar servicios de conexión a Internet 
+cable módem: es un dispositivo que se utiliza para proporcionar servicios de conexión a Internet 
 de alta velocidad a través de una conexión de televisión por cable. Funciona como un puente entre
  la red de cable del proveedor de servicios y los dispositivos de la red local, como computadoras,
   tabletas y teléfonos inteligentes.
 
--"satelital" se refiere a las comunicaciones que utilizan satélites artificiales para transmitir
+"satelital": se refiere a las comunicaciones que utilizan satélites artificiales para transmitir
  y recibir señales de comunicación.
 
- -WiMAX es un acrónimo de Worldwide Interoperability for Microwave Access, que en español significa Acceso Mundial Interoperable para Microondas. Se trata de una tecnología de redes inalámbricas de banda ancha que permite la transmisión de datos de alta velocidad a través de ondas de radio.
-
+ WiMAX: es un acrónimo de Worldwide Interoperability for Microwave Access, que en español significa Acceso Mundial Interoperable para Microondas. Se trata de una tecnología de redes inalámbricas de banda ancha que permite la transmisión de datos de alta velocidad a través de ondas de radio.
 WiMAX utiliza una variedad de frecuencias de radio para transmitir datos a través del aire, lo que lo hace similar a la tecnología Wi-Fi, pero con un alcance mucho mayor. En teoría, WiMAX puede transmitir datos a velocidades de hasta 1 Gigabit por segundo a distancias de varios kilómetros, lo que lo hace ideal para su uso en áreas rurales o en países en desarrollo donde la infraestructura de telecomunicaciones terrestres no está disponible o es limitada.
-
 Además de la transmisión de datos de alta velocidad, WiMAX también es capaz de proporcionar servicios de voz, video y otros servicios de telecomunicaciones a través de una red inalámbrica. Los proveedores de servicios de Internet (ISP) pueden utilizar la tecnología WiMAX para proporcionar acceso a Internet de alta velocidad a hogares, empresas y comunidades enteras sin tener que instalar infraestructura de fibra óptica o cableado de cobre.
-
 WiMAX también se utiliza en aplicaciones de telemetría y control industrial, como en la transmisión de datos de sensores y sistemas de control en plantas industriales y en sistemas de control de tráfico aéreo.
 
 
--Wireless: tecnologia inalámbrica, que se utiliza comúnmente en dispositivos electrónicos como teléfonos móviles, computadoras portátiles, tabletas, cámaras y sistemas de audio y video.La tecnología wireless es especialmente útil en situaciones donde la instalación de cables y alambres es impráctica o costosa, o en situaciones donde la movilidad es importante, como en dispositivos móviles. La tecnología wireless también permite la creación de redes de
+Wireless: tecnologia inalámbrica, que se utiliza comúnmente en dispositivos electrónicos como teléfonos móviles, computadoras portátiles, tabletas, cámaras y sistemas de audio y video.La tecnología wireless es especialmente útil en situaciones donde la instalación de cables y alambres es impráctica o costosa, o en situaciones donde la movilidad es importante, como en dispositivos móviles. La tecnología wireless también permite la creación de redes de
  comunicaciones ad hoc para compartir información y recursos entre dispositivos sin necesidad de una infraestructura de red fija.
 
--Link INDEC" podría referirse a una conexión de red que está vinculada o conectada al Instituto Nacional de Estadística y Censos (INDEC) de Argentina
+Link INDEC: una conexión de red que está vinculada o conectada al Instituto Nacional de Estadística y Censos (INDEC) de Argentina
 algunas empresas de telecomunicaciones proporcionen información sobre sus conexiones de red al INDEC para fines estadísticos o de investigación.
 
--Mbps es una abreviatura de megabits por segundo, que es una medida de la velocidad de transferencia de datos en una red o conexión a Internet. Un megabit es igual a 1 millón de bits, y la velocidad de transferencia se mide en la cantidad de bits que se pueden transferir en un segundo.
-
+Mbps: es una abreviatura de megabits por segundo, que es una medida de la velocidad de transferencia de datos en una red o conexión a Internet. Un megabit es igual a 1 millón de bits, y la velocidad de transferencia se mide en la cantidad de bits que se pueden transferir en un segundo.
 Por lo tanto, 0,256 mbps significa que se pueden transferir 256.000 bits de datos por segundo. Esta velocidad de transferencia de datos es relativamente baja en comparación con los estándares actuales de velocidad de Internet, pero puede ser suficiente para algunas aplicaciones, como navegar por la web o enviar correos electrónicos simples. Sin embargo, si se necesita transferir grandes cantidades de datos o realizar transmisiones de video en línea,
  esta velocidad puede ser insuficiente y se requerirá una velocidad de conexión más rápida.
 
 -* : El asterisco '' es comúnmente utilizado en las estadísticas para indicar que los datos son estimados o no están disponibles para ese período.
 
--El IPC US se refiere al Índice de Precios al Consumidor de Estados Unidos (en inglés, Consumer Price Index), que es una medida estadística que mide los cambios en los precios de los bienes y servicios que adquiere un hogar promedio en los Estados Unidos. El IPC es utilizado para medir la inflación y es publicado mensualmente por la Oficina de Estadísticas Laborales de los Estados Unidos. Este índice incluye una amplia variedad de bienes y servicios, como alimentos, vivienda, transporte, atención médica y educación, entre otros.
+-El IPC US: se refiere al Índice de Precios al Consumidor de Estados Unidos (en inglés, Consumer Price Index), que es una medida estadística que mide los cambios en los precios de los bienes y servicios que adquiere un hogar promedio en los Estados Unidos. El IPC es utilizado para medir la inflación y es publicado mensualmente por la Oficina de Estadísticas Laborales de los Estados Unidos. Este índice incluye una amplia variedad de bienes y servicios, como alimentos, vivienda, transporte, atención médica y educación, entre otros.
 
--USDARS blue es un término que se refiere al tipo de cambio entre el dólar estadounidense (USD) y el peso argentino (ARS) en el mercado informal o paralelo de Argentina. En Argentina, existe un mercado cambiario oficial donde el Banco Central de la República Argentina establece un tipo de cambio fijo, pero también existe un mercado paralelo o "blue" donde se negocia el dólar a un tipo de cambio más alto y fluctuante, que refleja la oferta y demanda del mercado informal. El término "blue" se utiliza comúnmente en Argentina para 
+-USDARS blue: es un término que se refiere al tipo de cambio entre el dólar estadounidense (USD) y el peso argentino (ARS) en el mercado informal o paralelo de Argentina. En Argentina, existe un mercado cambiario oficial donde el Banco Central de la República Argentina establece un tipo de cambio fijo, pero también existe un mercado paralelo o "blue" donde se negocia el dólar a un tipo de cambio más alto y fluctuante, que refleja la oferta y demanda del mercado informal. El término "blue" se utiliza comúnmente en Argentina para 
 referirse a actividades económicas que ocurren en el mercado informal y no regulado. Es importante tener en cuenta que el uso del mercado informal para la compra y venta de divisas puede ser ilegal o no estar regulado en algunos países.
